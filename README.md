@@ -65,6 +65,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeerre&theme=buefy&layout=compact" />
 </a>
 
+<div align="left">
+    <img src="https://metrics.lecoq.io/zeerre?template=classic&config.timezone=Asia%2FShanghai">
+</div>
+
 <h3> 🤝🏻 &nbsp; 联系方式 </h3>
 
 <p align="left">
@@ -74,3 +78,5 @@
 <a href="https://www.facebook.com/profile.php?id=100076758106674"><img alt="FaceBook" src="https://img.shields.io/badge/facebook-Eric-blue?style=flat-square&logo=facebook"></a>
 <a href="https://twitter.com/"><img alt="Twitter" src="https://img.shields.io/badge/twitter-Eric-blue?style=flat-square&logo=twitter"></a>
 </p>
+
+
