@@ -57,15 +57,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<h3> 📊 &nbsp; 我的动态 </h3>
-
-<a href="https://github.com/zeerre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeerre&theme=buefy&show_icons=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeerre&theme=buefy&layout=compact" />
-</a>
-
-<h3> ❤️ &nbsp; GitHub 完整统计 </h3>
+<h3> 📊 &nbsp; GitHub 完整统计 </h3>
 
 <div align="left">
     <img src="https://metrics.lecoq.io/zeerre?template=classic&config.timezone=Asia%2FShanghai">
