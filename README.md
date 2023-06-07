@@ -70,7 +70,7 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-12ccff?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Emacs](https://img.shields.io/badge/-Emacs-22ffcc?style=flat&logo=Emacs)
-  ![JetBrains](https://img.shields.io/badge/-JetBrains-22ccff?style=flat&logo=jetbrains)
+  ![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=jetbrains)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
