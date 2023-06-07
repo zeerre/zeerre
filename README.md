@@ -24,6 +24,7 @@
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![Lisp](https://img.shields.io/badge/-Lisp-12ccff?style=flat&logo=lisp)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- 💻 &nbsp;
   ![Cmake](https://img.shields.io/badge/-Cmake-333333?style=flat&logo=Cmake&logoColor=563D7C)
   ![GDB](https://img.shields.io/badge/-GDB-9988dd?style=flat&logo=GDB)
   ![Nasm](https://img.shields.io/badge/-Nasm-fff111?style=flat&logo=Nasm)
